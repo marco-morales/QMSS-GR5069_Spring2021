@@ -50,12 +50,11 @@ There are no required textbooks for this course. The course will rely on a combi
 * __AWS Educate__
 * __Databricks__
 
+Registered students will receive instructions through **Canvas** to access to the weekly **Zoom** session, **Flipgrid**, __GitHub classroom__, __Slack__, __AWS Educate__, and __Databricks__.
 
 ## To actively participate on this course
 
 Make sure to have the latest versions of [__R__](https://www.r-project.org/)/[__RStudio__](https://www.rstudio.com/), and/or [__Anaconda__](https://www.anaconda.com/distribution/), as well as [__git__](https://git-scm.com/) installed on your computer. Sign up for a [__GitHub__](https://github.com) account if you don't have one already. [__Atom__](https://atom.io/) is  recommended to simplify your interaction with git and GitHub.
-
-Registered students will receive instructions to get access to __GitHub classroom__, __AWS Educate classroom__, __Databricks__, and __Slack__ resources through Canvas.
 
 
 ### Accessing course materials in this repo
