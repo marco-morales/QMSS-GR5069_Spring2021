@@ -1,33 +1,17 @@
-## WEEK 3 - WORKSHOP: Version Control & GitHub
+## WEEK 3 - Setting up Projects: Data Science & Data Engineering Perspectives
 
-By now you should have installed both [git](https://git-scm.com/) and [Atom](https://atom.io/) in your computer. If you haven't already go ahead and get them here:
+Data Science work in general must fulfill three aims to be useful for collaboration:
 
-* [git](https://git-scm.com/downloads)
-* [Atom](https://atom.io/)
+* **replicability**
+* **portability**
+* **scalability**
 
+This week we'll discuss some principles - and tricks - that take your projects to that level. To prepare the discussion, you may want to skim through some of the links below to get a sense of how people have implemented DS projects and the structures they have though behind their proposed structures.
 
-### Suggested materials
+### Creating DS project structures
 
-Git and GitHub have done a great job of putting together and facilitating resources to make it easy to use them (once you've understood them). They are not entirely intuitive at first, so you may want to start with some of these resources, and immediately get to play around with them.
+People have put thought into standardizing project creation practices in Data Science, to the point of automating the creation of projects in ways that are generic and flexible enough to encompass multiple use cases. Two very useful ones are [Cookiecutter for Data Science](http://drivendata.github.io/cookiecutter-data-science/) tailored for Python, and [ProjectTemplate](http://projecttemplate.net/index.html) developed for R.
 
-#### git
+While you may or may not want to use them to create your projects, they are certainly a rich source of food for thought on what needs to be considered when creating a Data Science project.
 
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/) which is a perfect intro to Git
-* [visualizing git](http://git-school.github.io/visualizing-git/) to help you visualize what happens at each step of using Git
-* [Git Cheatsheets](https://services.github.com/on-demand/resources/cheatsheets/) put together by the GitHub team
-* [Pro Git](https://git-scm.com/book/en/v2) book if you're getting really serious about Git
-
-#### GitHub
-
-* the GitHub YouTube channel [GitHub training series](https://www.youtube.com/GitHub)
-* [GitHub Learning Lab](https://lab.github.com) hands-on tutorials put together by GitHub
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) is a 5-minute tutorial to understand the basics of team collaboration through GitHub
-* [GitHub Help](https://help.github.com/) is a great place to start at the source
-
-#### Atom
-
-Although it's probably best to start with the command line, once you're comfortable coding in a text editor, it might start to make sense to also interact with git and GitHub from your text editor as well. Atom is an open source text editor - supported by GitHub - with a nice integration with git and GitHub (aka an IDE).
-
-* the [Version Control in Atom](https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/) and [GitHub package](http://flight-manual.atom.io/using-atom/sections/github-package/) chapters from the [Atom Flight Manual](https://flight-manual.atom.io) to understand the basics of working with git and GitHub from Atom
-* [Atom Flight Manual](https://flight-manual.atom.io) if you want to learn more about other packages that will make it easier to code in your language of choice
-* [a quick video overview of Atom](https://www.youtube.com/watch?v=U5POoGSrtGg)
+As [Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/#be-conservative-in-changing-the-default-folder-structure) would put it: "be _liberal_ in changing the folders around for your project, but be _conservative_ in changing the default structure for all projects."
