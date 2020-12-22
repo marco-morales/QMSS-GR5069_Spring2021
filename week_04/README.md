@@ -24,7 +24,7 @@ For more advanced hackers, you will benefit from a more systematic approach to i
 
 ### Coding Style in Python
 
-Nothing is more satisfying for a Python devotee than coming across code crafted in the correct "Pythonic" way. Not a hard thing to achieve since the community has produced a comprehensive document that leads the way - [__PEP 8 Style Guide for Python Code__](https://www.python.org/dev/peps/pep-0008/). Be nice to your fellow Pythonistas - and your future self - and learn it by heart.
+Nothing is more satisfying for a Python devotee than coming across code crafted in the correct "Pythonic" way. Not a hard thing to achieve since the community has produced a comprehensive document that leads the way - [__PEP 8 Style Guide for Python Code__](https://www.python.org/dev/peps/pep-0008/). In a more poetic - yet meaningful - way,  [__The Zen of Python__](https://www.python.org/dev/peps/pep-0020/) summarizes the spirit of Python coding. Be nice to your fellow Pythonistas - and your future self - and learn them by heart.
 
 ### Coding Style in R
 
