@@ -15,3 +15,18 @@ People have put thought into standardizing project creation practices in Data Sc
 While you may or may not want to use them to create your projects, they are certainly a rich source of food for thought on what needs to be considered when creating a Data Science project.
 
 As [Cookiecutter](http://drivendata.github.io/cookiecutter-data-science/#be-conservative-in-changing-the-default-folder-structure) would put it: "be _liberal_ in changing the folders around for your project, but be _conservative_ in changing the default structure for all projects."
+
+
+### An Introduction to Apache Spark
+
+What is Apache Spark? - Many organizations have adapted to using Apache Spark for large scale data processing and machine learning models. Apache Spark has been proven to provide speed, efficiency and reliability in many use cases. In this course we will be using Databricks which is a managed Apache Spark Platform that allows the management of Apache Spark easy. In addition, Databricks provides a very collaborative platform for both Data Scientist and Data Engineers to build data pipelines and productionalize machine learning models very easily.
+
+##### Materials about Apache Spark
+
+* [Intro to Apache Spark](https://databricks.com/discover/introduction-to-data-analysis-workshop-series/intro-apache-spark)
+* [Apache Spark GitHub Repo](https://github.com/apache/spark)
+* [Research Papers](https://spark.apache.org/research.html)
+
+### An Introduction to Cloud Computing
+
+In this course we will be using "The Cloud" for majority of our collaborative work. It is important to understand the basic and meaning of what Cloud Computing means. [This Medium Article](https://towardsdatascience.com/aws-and-cloud-computing-for-dummies-84525fbabd1e) talks about the tranditional IT Infrastructure, types of cloud services and benefits of the cloud.
