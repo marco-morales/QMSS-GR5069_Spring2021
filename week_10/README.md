@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## WEEK 10 - Explanation vs Prediction
-=======
-## WEEK 8 - Explanation vs Prediction
->>>>>>> db0cbdc769186e169c09485ebd86ca859d5917f1
 
 The __difference between explanation and prediction__ is an often overlooked topic in Data Science based on a widespread belief that _all  work in Data Science is strictly predictive_. This has become such a commonly held misconception that many use prediction as the sole characteristic to define the field.
 
@@ -38,15 +34,9 @@ Now that we have established the difference between explanation and prediction m
 * a (2011) paper - [__Illusions in Regression Analysis__](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1190&context=marketing_papers) - that illustrates the empirical differences between fitting models and generating predictions/forecasts
 * a (2015) article with colleagues - [__Golden rule of forecasting: Be conservative__](https://www.sciencedirect.com/science/article/pii/S0148296315001459) - that compiles principles that summarize current knowledge on predicting/forecasting
 
-<<<<<<< HEAD
 ## ADDENDUM - Conditional relationships in the data
 
 A topic related to the discussion (and distinction between) explanation vs prediction relates to the modeling and interpretation of __Conditional Relationships in the data__. Conditional relationships are ubiquitous in behavioral data, and Data Science is plagued with data that compiles human behaviors. Extracting additional insights from behavioral data by modeling the effects of a feature on a target variable when another feature takes on a specific value is not always taught on a typical Data Science curricula.
-=======
-## WEEK 11 - Conditional relationships in the data
-
-Conditional relationships are ubiquitous in behavioral data, and Data Science is plagued with data that compiles human behaviors. Extracting additional insights from behavioral data by modeling the effects of a feature on a target variable when another feature takes on a specific value is not always taught on a typical Data Science curricula.
->>>>>>> db0cbdc769186e169c09485ebd86ca859d5917f1
 
 ### Parametric Approaches
 
